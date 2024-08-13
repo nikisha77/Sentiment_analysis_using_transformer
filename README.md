@@ -18,8 +18,4 @@ I have made this project to choice the suitable transformer as per the needs (Do
 
 
 
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`HUGGINGFACE_API_KEY`='ENTER YOUR API KEY '
